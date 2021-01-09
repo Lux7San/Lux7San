@@ -13,4 +13,4 @@ Skills: Python / JAVA / Kotlin / PHP / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lux7San)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ernold_mcs/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Lux7_Kun)  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lux7San&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lux7San&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lux7San&layout=compact)
