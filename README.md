@@ -5,7 +5,7 @@
 My name is Ernold Mochammad Can Setya, can you call me Ernold. And I'm from Magetan City in East Java - Indonesia. Most of my hobbies are drawing anime characters, and you know me.
 thank you
 
-Skills: Python / JAVA / Kotlin / PHP / JS / HTML / CSS
+Skills: Python / JAVA / Kotlin / PHP / JS / HTML / CSS / Jupyter NB
 
 - 🔭 I’m currently working on My Home Company 
 
