@@ -1,6 +1,7 @@
 ### Hi there 👋, Enold Mochammad Can Setya
 #### Design and Programming Development
-![Uploading HEy, My Name Is (1).gif…]()
+
+![HEy, My Name Is](https://user-images.githubusercontent.com/56147986/145235375-906d567a-8b50-431e-b7ae-f8a343e4a61e.gif)
 
 
 My name is Ernold Mochammad Can Setya, can you call me Ernold. And I'm from Magetan City in East Java - Indonesia. Most of my hobbies are drawing anime characters, and you know me.
