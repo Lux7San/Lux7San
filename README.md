@@ -1,6 +1,6 @@
 ### Hi there 👋, Enold Mochammad Can Setya
 #### Design and Programming Development
-![Design and Programming Development](https://pbs.twimg.com/media/ErSykOMUYAoW63-?format=jpg&name=large)
+![Design and Programming Development](https://twitter.com/i/status/1468591158951432196)
 
 My name is Ernold Mochammad Can Setya, can you call me Ernold. And I'm from Magetan City in East Java - Indonesia. Most of my hobbies are drawing anime characters, and you know me.
 thank you
